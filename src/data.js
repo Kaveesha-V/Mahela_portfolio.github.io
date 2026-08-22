@@ -31,18 +31,18 @@ export const educationData = [
 
 export const experienceData = [
   {
-    role: "IT Intern",
+    role: "Intern Banking Trainee",
     company: "Bank of Ceylon",
     location: "Head Office / Branch Network, Sri Lanka",
     period: "Sept 2024 – Mar 2025",
     exactDates: "2024-09-02 to 2025-03-25",
     type: "Internship",
-    description: "Gained valuable hands-on industry experience at Sri Lanka's premier commercial bank.",
+    description: "Worked as a Digital Assistant, providing direct customer support and assisting with branch operations.",
     responsibilities: [
-      "Exposed to enterprise banking software systems, secure database management, and network operations.",
-      "Assisted in monitoring secure transactional workflows and basic system security audits.",
-      "Collaborated with cross-functional IT operations and software maintenance teams.",
-      "Applied academic software development principles to real-world banking infrastructure."
+      "Assisted customers with installing digital banking applications and setting up their accounts.",
+      "Troubleshot and resolved customer account issues efficiently.",
+      "Managed customer service tasks in the front office to ensure high customer satisfaction.",
+      "Supported back-office operations and general administrative duties in the assigned branch."
     ]
   }
 ];
@@ -135,12 +135,12 @@ export const projectsData = [
     featured: true
   },
   {
-    id: "curriculum-manager",
-    title: "Curriculum Management System",
-    badge: "Academic System",
+    id: "currier-manager",
+    title: "Currier Management System",
+    badge: "Delivery System",
     category: "Web Application",
-    description: "Academic data management application engineered to handle university course outlines, credit structures, prerequisites, and department data flow.",
-    securityAspect: "Role-based access separating faculty, admin, and student data views with strict payload validation.",
+    description: "A comprehensive web-based logistics application developed as a student project to manage package deliveries, track shipments, and coordinate dispatch operations.",
+    securityAspect: "Role-based access separating admin, dispatcher, and customer data views with strict payload validation.",
     tags: ["Java / JS", "Database Systems", "UI Design", "Data Validation"],
     featured: false
   },

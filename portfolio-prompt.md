@@ -44,9 +44,9 @@ A profile image will be supplied separately and should be placed in the hero/abo
 
 ## 4. Work Experience
 
-- **Intern, Bank of Ceylon**
+- **Intern Banking Trainee, Bank of Ceylon**
   - Duration: 2024-09-02 to 2025-03-25
-  - (Add specific responsibilities/achievements once available)
+  - Worked as a Digital Assistant to help customers install banking apps, resolve account issues, and support branch operations.
 
 ---
 
@@ -55,7 +55,7 @@ A profile image will be supplied separately and should be placed in the hero/abo
 | Project | Description |
 |---|---|
 | **Task Management System** | Contributed to the **security module** of a task management system. |
-| **Curriculum Management System** | Academic system for managing course/curriculum data. |
+| **Currier Management System** | Student project for a web-based delivery and logistics platform to manage packages. |
 | **Ping Pong Game** | Interactive game project (likely built for a programming/graphics course). |
 | **SDP — Customer Appointment Management System** | Year-long Software Development Project (ongoing), building a full appointment management system. |
 
@@ -98,4 +98,4 @@ A profile image will be supplied separately and should be placed in the hero/abo
 - [ ] Phone number
 - [ ] Tech stack per project
 - [ ] Project screenshots or demo links
-- [ ] Bank of Ceylon internship details (role, tasks, achievements)
+- [x] Bank of Ceylon internship details (role, tasks, achievements)

@@ -309,10 +309,10 @@ function executeCommand(cmd, outputContainer) {
 
     case 'boc':
       responseLine.innerHTML = `
-        <strong>Bank of Ceylon (IT Internship)</strong><br>
+        <strong>Bank of Ceylon (Internship)</strong><br>
         Duration: Sept 2, 2024 – Mar 25, 2025<br>
-        Role: IT Intern<br>
-        Focus: Enterprise banking workflows, database operations, and system security auditing.
+        Role: Intern Banking Trainee<br>
+        Focus: Digital assistant, customer account troubleshooting, and branch operations.
       `;
       break;
 
