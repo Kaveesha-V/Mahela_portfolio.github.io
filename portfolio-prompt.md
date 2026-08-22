@@ -26,12 +26,10 @@ A profile image will be supplied separately and should be placed in the hero/abo
 > cyber security. He enjoys building practical, security-conscious software — from
 > task management systems to interactive games — and is currently working on a
 > year-long Software Development Project (SDP) building a Customer Appointment
-> Management System. He gained hands-on industry experience during his internship at
-> the Bank of Ceylon (Sept 2024 – Mar 2025). Outside of academics, Mahela is an active
+> Management System. He gained hands-on corporate experience during his school leaver
+> internship at the Bank of Ceylon (Sept 2024 – Mar 2025). Outside of academics, Mahela is an active
 > member of the University of Kelaniya Boxing Club, bringing the same discipline and
 > focus from the ring into his approach to problem-solving and software engineering.
-
-*(Feel free to tweak tone/length — this is a starting draft, not final copy.)*
 
 ---
 
@@ -44,7 +42,7 @@ A profile image will be supplied separately and should be placed in the hero/abo
 
 ## 4. Work Experience
 
-- **Intern Banking Trainee, Bank of Ceylon**
+- **Bank Intern (School Leaver), Bank of Ceylon**
   - Duration: 2024-09-02 to 2025-03-25
   - Worked as a Digital Assistant to help customers install banking apps, resolve account issues, and support branch operations.
 
@@ -55,11 +53,14 @@ A profile image will be supplied separately and should be placed in the hero/abo
 | Project | Description |
 |---|---|
 | **Task Management System** | Contributed to the **security module** of a task management system. |
+<<<<<<< HEAD
 | **Currier Management System** | Student project for a web-based delivery and logistics platform to manage packages. |
 | **Ping Pong Game** | Interactive game project (likely built for a programming/graphics course). |
+=======
+| **Curriculum Management System** | Academic system for managing course/curriculum data. |
+| **Ping Pong Game** | Interactive game project. |
+>>>>>>> b955e63 (Update IT Intern to Bank Intern (School Leaver) at Bank of Ceylon)
 | **SDP — Customer Appointment Management System** | Year-long Software Development Project (ongoing), building a full appointment management system. |
-
-*(Add tech stack, GitHub links, and screenshots for each project once available.)*
 
 ---
 
@@ -73,21 +74,15 @@ A profile image will be supplied separately and should be placed in the hero/abo
 
 - **Email:** mahelaindrajith58@gmail.com
 - **Location:** Dambethalava, Dehipe
-- (Add LinkedIn / GitHub / phone number if available)
 
 ---
 
 ## 8. Website Requirements / Notes for Builder
 
-- **Sections needed:** Hero (name + tagline + profile photo), About, Education,
-  Projects, Internship/Experience, Extracurricular, Contact.
-- **Tone/theme:** Professional, tech-forward, with a subtle cyber-security aesthetic
-  (dark mode, accent colors like teal/green/electric blue, monospace touches for
-  headings or code-like elements).
-- **Profile image:** To be supplied by user — placeholder should be used until then.
-- **Tagline suggestion:** "IT Undergraduate | Aspiring Cyber Security Professional"
-- **Call-to-action:** Contact/email button prominent in hero and footer.
+- **Sections:** Hero (name + tagline + profile photo), About, Education, Projects, Internship/Experience, Extracurricular, Contact.
+- **Tone/theme:** Professional, tech-forward, with a subtle cyber-security aesthetic (dark mode, accent colors like teal/green/electric blue, monospace touches).
 - **Responsive design** for mobile and desktop.
+<<<<<<< HEAD
 
 ---
 
@@ -99,3 +94,5 @@ A profile image will be supplied separately and should be placed in the hero/abo
 - [ ] Tech stack per project
 - [ ] Project screenshots or demo links
 - [x] Bank of Ceylon internship details (role, tasks, achievements)
+=======
+>>>>>>> b955e63 (Update IT Intern to Bank Intern (School Leaver) at Bank of Ceylon)

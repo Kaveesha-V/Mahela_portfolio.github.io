@@ -309,10 +309,10 @@ function executeCommand(cmd, outputContainer) {
 
     case 'boc':
       responseLine.innerHTML = `
-        <strong>Bank of Ceylon (Internship)</strong><br>
+        <strong>Bank of Ceylon (Bank Internship - School Leaver)</strong><br>
         Duration: Sept 2, 2024 – Mar 25, 2025<br>
-        Role: Intern Banking Trainee<br>
-        Focus: Digital assistant, customer account troubleshooting, and branch operations.
+        Role: Bank Intern (School Leaver)<br>
+        Focus: Digital assistant, customer service, branch operations, and digital banking support.
       `;
       break;
 

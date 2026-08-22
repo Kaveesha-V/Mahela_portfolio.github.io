@@ -9,7 +9,7 @@ export const personalData = {
   department: "Department of Industrial Management (MIT)",
   degree: "B.Sc. (Hons) in Information Technology & Industrial Management",
   careerAspiration: "Cyber Security & Security Engineering",
-  aboutBio: `Mahela Indrajith Fernando is an IT undergraduate at the Department of Industrial Management, Faculty of Science, University of Kelaniya, with a deep passion for cyber security. He enjoys building practical, security-conscious software — from task management systems to interactive games — and is currently working on a year-long Software Development Project (SDP) building a Customer Appointment Management System. He gained hands-on industry experience during his internship at the Bank of Ceylon (Sept 2024 – Mar 2025). Outside of academics, Mahela is an active member of the University of Kelaniya Boxing Club, bringing the same discipline, resilience, and laser focus from the ring into his approach to software engineering and problem-solving.`,
+  aboutBio: `Mahela Indrajith Fernando is an IT undergraduate at the Department of Industrial Management, Faculty of Science, University of Kelaniya, with a deep passion for cyber security. He enjoys building practical, security-conscious software — from task management systems to interactive games — and is currently working on a year-long Software Development Project (SDP) building a Customer Appointment Management System. He gained valuable corporate experience during his school leaver internship at the Bank of Ceylon (Sept 2024 – Mar 2025). Outside of academics, Mahela is an active member of the University of Kelaniya Boxing Club, bringing the same discipline, resilience, and laser focus from the ring into his approach to software engineering and problem-solving.`,
   boxingHighlight: "Applying the discipline, strategic focus, and quick reflexes from the ring directly into cyber security analysis and complex problem solving.",
   avatar: "/avatar.jpg"
 };
@@ -31,18 +31,18 @@ export const educationData = [
 
 export const experienceData = [
   {
-    role: "Intern Banking Trainee",
+    role: "Bank Intern (School Leaver)",
     company: "Bank of Ceylon",
-    location: "Head Office / Branch Network, Sri Lanka",
+    location: "Branch Network, Sri Lanka",
     period: "Sept 2024 – Mar 2025",
     exactDates: "2024-09-02 to 2025-03-25",
-    type: "Internship",
-    description: "Worked as a Digital Assistant, providing direct customer support and assisting with branch operations.",
+    type: "School Leaver Internship",
+    description: "Completed a 6-month banking internship as a school leaver at Sri Lanka's premier state commercial bank, working as a Digital Assistant and gaining valuable exposure to core banking operations and customer engagement.",
     responsibilities: [
-      "Assisted customers with installing digital banking applications and setting up their accounts.",
-      "Troubleshot and resolved customer account issues efficiently.",
-      "Managed customer service tasks in the front office to ensure high customer satisfaction.",
-      "Supported back-office operations and general administrative duties in the assigned branch."
+      "Assisted customers with installing digital banking applications, account setups, and resolving inquiries.",
+      "Managed customer service tasks in the front office and assisted with daily branch operations.",
+      "Collaborated with senior branch officers in registry management, customer digital banking guidance, and records administration.",
+      "Cultivated strong professional discipline, teamwork, and client communication skills in a corporate financial environment."
     ]
   }
 ];
